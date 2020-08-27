@@ -15,9 +15,9 @@ public class Main {
         Processamento Processamento = new Processamento();
         Saída Saída = new Saída();
 
-        Entrada.escolha();
         int escolha;
         do {
+            Entrada.escolha();
             escolha = Entrada.input_escolha("\nDigite um valor de 1 à 6: ");
             switch (escolha) {
                 case 1:
