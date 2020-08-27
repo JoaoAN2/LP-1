@@ -2,7 +2,7 @@ package Main;
 
 /**
  *
- * @author mari e joao
+ * @author JoaoAN
  */
 public class Main {
 
