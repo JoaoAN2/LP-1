@@ -4,7 +4,7 @@
 
 <div align = "center">
 
-<h2> 🎓 Professor: Radames Halmeman. </h2>
+<h2> 🎓 Professor: <a href = "https://github.com/rjhalmeman">Radames Halmeman. </a> </h2>
 
 Linguagem de Programação: Java ☕
 
