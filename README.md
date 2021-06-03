@@ -5,7 +5,7 @@ Repositório dedicado a exercícios e provas da matéria Linguagem de Programaç
 <br></br>
 <div align = "center">
 
-## 🎓 Professor: Radames Halmeman.
+<h2> 🎓 Professor: Radames Halmeman. </h2>
 
 Linguagem de Programação: Java
 
