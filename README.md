@@ -2,15 +2,15 @@
 
 Repositório dedicado a exercícios e provas da matéria Linguagem de Programação I, matéria do 2° ano do curso técnico de informática UTFPR! 
 
-<br></br>
 <div align = "center">
 
 <h2> 🎓 Professor: Radames Halmeman. </h2>
 
 Linguagem de Programação: Java
 
+Ano: 2020 - M32
+
 </div>
-<br></br>
 
 # 📚 Conhecimentos aprendidos com a matéria: 
 
