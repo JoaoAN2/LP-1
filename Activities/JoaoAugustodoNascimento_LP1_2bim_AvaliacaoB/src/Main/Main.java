@@ -60,18 +60,17 @@ public class Main {
                         Processamento.contador(n);
                     } while (n >= 0);
                     System.out.println("Programa finalizado!");
-                    
+
                     int menor = Processamento.menor;
                     int maior = Processamento.maior;
-                    
-                    if(maior != Integer.MIN_VALUE){
+
+                    if (maior != Integer.MIN_VALUE) {
                         Saída.print_int("\nO menor valor digitado é de: ", menor);
                         Saída.print_int("O maior valor digitado é de: ", maior);
-                    }
-                    else{
+                    } else {
                         System.out.println("\nNão foi digitado nenhum valor!");
                     }
-                    
+
                     Processamento.menor = Integer.MAX_VALUE;
                     Processamento.maior = Integer.MIN_VALUE;
                     break;
@@ -83,7 +82,7 @@ public class Main {
 
                     Saída.print_int("\nO valor encontrado na ocorrência " + ocorrência + " é de: ", fibonacci);
                     break;
-                }   
+            }
             if (escolha != 6) {
                 Saída.pausa();
             }
