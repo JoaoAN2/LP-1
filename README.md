@@ -27,3 +27,6 @@ Ano: 2020 - M32
 - Datas. ✅
 
 - CRUD e Persistência. ✅
+
+---
+<div align = "center">Feito pelo aluno João Augusto do Nascimento ❤</div>
