@@ -1,6 +1,6 @@
 # 💻 Linguagem de Programação I
 
- 📕 Repositório dedicado a exercícios e provas da matéria Linguagem de Programação I, matéria do 2° ano do curso técnico de informática UTFPR! 
+ 📕 Repositório dedicado a exercícios e provas da matéria Linguagem de Programação I, matéria do 2° ano do curso técnico integrado em informática UTFPR! 
 
 <div align = "center">
 
